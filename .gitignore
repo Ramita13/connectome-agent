@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Caches and local data
+.cache/
+data/raw/
+*.parquet
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Private notes
+notes/
